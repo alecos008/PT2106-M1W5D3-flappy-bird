@@ -15,3 +15,10 @@
   flex-direction: column;
   align-items: center;
 }
+
+#my-canvas {
+  display: none;
+}
+#gameover-screen {
+  display: none;
+}
